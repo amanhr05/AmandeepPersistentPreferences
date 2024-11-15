@@ -1,0 +1,36 @@
+/* Default styles */
+body {
+    font-family: Arial, sans-serif;
+    transition: all 0.3s;
+}
+
+/* Light theme */
+.theme-light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Dark theme */
+.theme-dark {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+/* Blue theme */
+.theme-blue {
+    background-color: #e0f7fa;
+    color: #01579b;
+}
+
+/* List styles */
+#item-list.disc {
+    list-style-type: disc;
+}
+
+#item-list.circle {
+    list-style-type: circle;
+}
+
+#item-list.square {
+    list-style-type: square;
+}
